@@ -7,7 +7,7 @@
 # you're doing.
 Vagrant.configure(2) do |config|
   config.vm.define "rundeck" do |rundeck|
-    rundeck.vm.box = "ubuntu/trusty64"
+    rundeck.vm.box = "ubuntu/xenial64"
     rundeck.vm.hostname = "rundeck"
 
     rundeck.vm.network :private_network, ip: "192.168.202.201"

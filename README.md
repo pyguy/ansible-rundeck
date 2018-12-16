@@ -1,6 +1,6 @@
 # ansible-rundeck
 
-An [Ansible](https://www.ansible) role to install [Rundeck](http://rundeck.org/)
+An Ansible role to install [Rundeck](https://www.rundeck.com/)
 
 > NOTE: Also installs Ansible for executing playbooks and etc. Configurable
 > options and Logstash plugin ready.
@@ -59,8 +59,7 @@ MIT
 
 ## Author Information
 
-Larry Smith Jr.
+Hamidreza Joshaghani
 
--   [EverythingShouldBeVirtual](http://everythingshouldbevirtual.com)
--   [@mrlesmithjr](https://www.twitter.com/mrlesmithjr)
--   <mailto:mrlesmithjr@gmail.com>
+-   [@hrjosheghani](https://www.twitter.com/hrjosheghani)
+-   <mailto:hr.josheghani@gmail.com>
